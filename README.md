@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @richlil1, i am currently a late blooming college student that wants to learn more and more.
-- 👀 I’m interested in artifciial intelligence, cyber security and building applications useful to different business sectors the world has to offer.
-- 🌱 I’m currently learning electrical engineering, python, c#, c++, java and javascript.
-- 💞️ I’m looking to collaborate on anyhting, i love creating and working on new projects. 
-- 📫 How to reach me, through github please or instagram is _1plainjay.
+- 👋 Hi, I’m @richlil1, i am currently head down, heartbroken, and going to build a billion dollar portfolio.
+- 📫 How to reach me, through github please or instagram is 1lijimanu.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
