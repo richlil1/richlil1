@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richlil1, i am currently head down, heartbroken, and going to build a billion dollar portfolio.
-- 📫 How to reach me, through github please or instagram is 1lijimanu.
+- 📫 How to reach me, through github please or instagram is 1elijahsmith.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
