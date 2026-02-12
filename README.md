@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @richlil1, i am head down and building a billion dollar portfolio.
+- 👋 Hi, I’m @richlil1.
+- you will just have to wait and see.
+
 
 https://synapseos.vercel.app/
